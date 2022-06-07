@@ -1,0 +1,20 @@
+langkah pertama membuat folder dengan cara mkdir ina-septiana
+membuat folder didalamnya dengan cara mkdir sekolah dan mkdir kerja
+
+masuk kedalam folder sekolah dengan cara cd sekolah. membuat file didalam 
+folder sekolah dengan cara touch ijazah.txt . menulis di dalam file ijazah
+dengan cara cat > ijazah.txt dan menulis didalam nya perkenalkan namaku ina septiana
+aku berasal dari cimahi salam kenal.setelah itu membuat satu lagi file dengan touch portfolio.txt .
+menulis didalam nya dengan cara cat > portofolio.txt . dan menulis saya pernah bekerja pada beberapa perusahaan salah satu diantaranya ialah
+- telkom
+- bmkg
+dan sekarang masuk ke folder kerja. membuat file baru touch cv.txt .dan menulis didalamnya  cat > cv.txt
+salam,
+
+perkenalkan namaku ina, saya memiliki kegemaran
+- membaca
+- mengambar atau melukis
+dengan cara cat > cv.txt
+
+
+
